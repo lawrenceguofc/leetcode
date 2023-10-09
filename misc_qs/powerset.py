@@ -7,6 +7,8 @@
 
 # print({1,2,3})
 # {}, {1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}
+
+"""
 k = [1,2,3]
 def findPowerSet(S):
     N = int(pow(2,len(S)))
@@ -17,5 +19,11 @@ def findPowerSet(S):
             if i & (1 << j):
                 print(i,j)
                #  s.add(S[j])
-print(findPowerSet(k))
-        
+print(findPowerSet(k)
+"""
+
+
+"""
+s
+
+
